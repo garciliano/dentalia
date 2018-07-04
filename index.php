@@ -54,61 +54,61 @@
 
 				switch ($final) {
 					case $c1:
-						echo '<h1>1 =>'.$f.'</h1>';
+						echo '<h1>1 => '.$f.' </h1>';
 						$a = array('1' => $f);
 						array_push ($array_final,$a);
 						break;
 
 					case $c2:
-						echo '<h1>2 =>'.$f.'</h1>';
+						echo '<h1>2 => '.$f.' </h1>';
 						$a = array('2' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c3:
-						echo '<h1>3 =>'.$f.'</h1>';
+						echo '<h1>3 => '.$f.' </h1>';
 						$a = array('3' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c4:
-						echo '<h1>4 =>'.$f.'</h1>';
+						echo '<h1>4 => '.$f.' </h1>';
 						$a = array('4' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c5:
-						echo '<h1>5 =>'.$f.'</h1>';
+						echo '<h1>5 => '.$f.' </h1>';
 						$a = array('5' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c6:
-						echo '<h1>6 =>'.$f.'</h1>';
+						echo '<h1>6 => '.$f.' </h1>';
 						$a = array('6' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c7:
-						echo '<h1>7 =>'.$f.'</h1>';
+						echo '<h1>7 => '.$f.' </h1>';
 						$a = array('7' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c8:
-						echo '<h1>8 =>'.$f.'</h1>';
+						echo '<h1>8 => '.$f.' </h1>';
 						$a = array('8' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c9:
-						echo '<h1>9 =>'.$f.'</h1>';
+						echo '<h1>9 => '.$f.' </h1>';
 						$a = array('9' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c10:
-						echo '<h1>10 =>'.$f.'</h1>';
+						echo '<h1>10 => '.$f.' </h1>';
 						$a = array('10' => $f);
 						array_push ($array_final,$a);
 
@@ -287,61 +287,61 @@
 
 				switch ($final) {
 					case $c1:
-						echo '<h1>1 =>'.$f.'</h1>';
+						echo '<h1>1 => '.$f.'</h1>';
 						$a = array('1' => $f);
 						array_push ($array_final,$a);
 						break;
 
 					case $c2:
-						echo '<h1>2 =>'.$f.'</h1>';
+						echo '<h1>2 => '.$f.'</h1>';
 						$a = array('2' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c3:
-						echo '<h1>3 =>'.$f.'</h1>';
+						echo '<h1>3 => '.$f.'</h1>';
 						$a = array('3' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c4:
-						echo '<h1>4 =>'.$f.'</h1>';
+						echo '<h1>4 => '.$f.'</h1>';
 						$a = array('4' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c5:
-						echo '<h1>5 =>'.$f.'</h1>';
+						echo '<h1>5 => '.$f.'</h1>';
 						$a = array('5' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c6:
-						echo '<h1>6 =>'.$f.'</h1>';
+						echo '<h1>6 => '.$f.'</h1>';
 						$a = array('6' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c7:
-						echo '<h1>7 =>'.$f.'</h1>';
+						echo '<h1>7 => '.$f.'</h1>';
 						$a = array('7' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c8:
-						echo '<h1>8 =>'.$f.'</h1>';
+						echo '<h1>8 => '.$f.'</h1>';
 						$a = array('8' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c9:
-						echo '<h1>9 =>'.$f.'</h1>';
+						echo '<h1>9 => '.$f.'</h1>';
 						$a = array('9' => $f);
 						array_push ($array_final,$a);
 
 						break;
 					case $c10:
-						echo '<h1>10 =>'.$f.'</h1>';
+						echo '<h1>10 => '.$f.'</h1>';
 						$a = array('10' => $f);
 						array_push ($array_final,$a);
 
@@ -385,7 +385,7 @@
 
 						break;
 					case $c4:
-						echo '<h1>4 =>'.$f.'</h1>';
+						echo '<h1>4 => '.$f.'</h1>';
 						$a = array('4' => $f);
 						array_push ($array_final,$a);
 
@@ -495,7 +495,7 @@
 
 						break;
 					case $c9:
-						echo '<h1>9 =>'.$f.'</h1>';
+						echo '<h1>9 => '.$f.'</h1>';
 						$a = array('9' => $f);
 						array_push ($array_final,$a);
 
